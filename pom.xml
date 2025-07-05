@@ -11,7 +11,7 @@
 	<groupId>com.gautamtechtutorials.learning</groupId>
 	<artifactId>datastructure-algorithms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>datastructure-algorithms</name>
+	<name>datastructures-algorithms</name>
 	<description>For learning and practicing DSA </description>
 	<url/>
 	<licenses>
